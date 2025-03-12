@@ -26,7 +26,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [ solution URL](https://github.com/Suhaibmuhd01/blog-preview-card.gitm)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://blog-preview-card-seven-eosin.vercel.app/)
 
 ## My process
 
